@@ -4,18 +4,15 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Xcuse#2631)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brunnogcosta/)
 
-![Bruno Gencek GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruhgen&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruhgen)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/bruhgen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruhgen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhgen&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-
-
-
-
-
-
-## Tecnlógias do meu dia a dia 🖥️
+## Tecnológias do meu dia a dia 🖥️
 
 <div style="display: inline_block"><br/>
     <img align ="center" ali alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
