@@ -1,10 +1,9 @@
-### Olá! Eu sou o Bruno Gencek ✌️
+ ## Oiii eu sou o Bruno Costa.
 
-<div>
+<div align="center">
   <a href="https://github.com/bruhgen">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruhgen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhgen&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruhgen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruhgen&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnológias do meu dia a dia 🖥️
 
