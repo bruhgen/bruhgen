@@ -32,7 +32,7 @@ Cloud: <br>
  
 <div style="display:flex;flex-direction:row;justify-content:space-around;padding:20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhgen&theme=blue-green"> 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroCozzati&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=BruhGen&theme=blue-green">
 </div>
 
   Redes Sociais: <br> 
